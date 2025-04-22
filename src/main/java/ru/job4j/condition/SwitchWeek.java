@@ -11,7 +11,7 @@ public class SwitchWeek {
                 name = "Вторник";
                 break;
             case 3:
-                name = "Среда";
+                name = "Сре\nда";
                 break;
             case 4:
                 name = "Четверг";
